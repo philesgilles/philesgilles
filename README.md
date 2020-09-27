@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there I'm Philippe !👋
+Full-stack developer, creative, teamplayer, adaptable and solution oriented. Passionate about new technologies and innvations. 
 
 <!--
 **philesgilles/philesgilles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
