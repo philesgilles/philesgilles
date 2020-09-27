@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 -->
 
 :construction:
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=philesgilles)](https://github.com/anuraghazra/github-readme-stats)
